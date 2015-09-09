@@ -5,4 +5,5 @@ var palindrome = function(userInput) {
   if (userInput === reverseInput) {
     return true;
   }
+  return false;
 }
